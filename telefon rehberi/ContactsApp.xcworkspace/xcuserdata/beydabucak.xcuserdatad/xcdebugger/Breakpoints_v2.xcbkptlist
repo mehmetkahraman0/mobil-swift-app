@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7A8EFF01-2390-4173-BD06-688A477FA096"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4B7DE63-C69A-4873-B0E0-CE63EECA391F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ContactsApp/AddPersonViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "AddPersonViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B4B7DE63-C69A-4873-B0E0-CE63EECA391F - 9c14302c4c1e1536"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.AddPersonViewController.phoneTextField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beydabucak/Desktop/ContactsApp/ContactsApp/AddPersonViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "B4B7DE63-C69A-4873-B0E0-CE63EECA391F - 5a07e8c9755bc1c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.AddPersonViewController.phoneTextField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beydabucak/Desktop/ContactsApp/ContactsApp/AddPersonViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "B4B7DE63-C69A-4873-B0E0-CE63EECA391F - 134a6082f3698831"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.AddPersonViewController.phoneTextField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beydabucak/Desktop/ContactsApp/ContactsApp/AddPersonViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B4B7DE63-C69A-4873-B0E0-CE63EECA391F - c03620ae177e6ba2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.AddPersonViewController.phoneTextField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beydabucak/Desktop/ContactsApp/ContactsApp/AddPersonViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "B4B7DE63-C69A-4873-B0E0-CE63EECA391F - c312729333cb636c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.AddPersonViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ContactsApp.AddPersonViewController"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beydabucak/Desktop/ContactsApp/ContactsApp/AddPersonViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "B4B7DE63-C69A-4873-B0E0-CE63EECA391F - 1a0d3e5630ed6091"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.AddPersonViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ContactsApp.AddPersonViewController&gt;"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beydabucak/Desktop/ContactsApp/ContactsApp/AddPersonViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  uuid = "B4B7DE63-C69A-4873-B0E0-CE63EECA391F - c312729333cb636c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.AddPersonViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ContactsApp.AddPersonViewController"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beydabucak/Desktop/ContactsApp/ContactsApp/AddPersonViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "223">
+               </Location>
+               <Location
+                  uuid = "B4B7DE63-C69A-4873-B0E0-CE63EECA391F - 1a0d3e5630ed6091"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.AddPersonViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ContactsApp.AddPersonViewController&gt;"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beydabucak/Desktop/ContactsApp/ContactsApp/AddPersonViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
